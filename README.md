@@ -156,3 +156,8 @@ Update this section with the actual student name, register number, project guide
 
 ## 16. GitHub Repository
 After creating your GitHub repository, paste its URL here.
+
+## 17. Resource Management Module
+- Faculty can upload study materials.
+- Students can view and download available materials.
+- Students can search for resources by title or subject.
